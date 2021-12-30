@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mint-app-dev/static/css/main.073c9b0a.css",
+    "main.js": "/mint-app-dev/static/js/main.40353f43.js",
+    "static/js/787.b21b2747.chunk.js": "/mint-app-dev/static/js/787.b21b2747.chunk.js",
+    "static/media/logo.svg": "/mint-app-dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mint-app-dev/index.html",
+    "main.073c9b0a.css.map": "/mint-app-dev/static/css/main.073c9b0a.css.map",
+    "main.40353f43.js.map": "/mint-app-dev/static/js/main.40353f43.js.map",
+    "787.b21b2747.chunk.js.map": "/mint-app-dev/static/js/787.b21b2747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.40353f43.js"
+  ]
+}
